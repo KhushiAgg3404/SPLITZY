@@ -21,9 +21,9 @@ Splitzy is a responsive bill-splitting web application that helps users manage s
 
 ### Frontend
 
-* HTML5
-* CSS3
-* JavaScript (ES6)
+* HTML
+* CSS
+* JavaScript 
 
 ### Deployment & Analytics
 
